@@ -1,0 +1,12 @@
+name: handballanalytica
+title: handballanalytica
+username:
+account: handballanalytica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 624861
+bundleId: 1796617
+url: https://handballanalytica.shinyapps.io/handballanalytica/
+when: 1546610573.79629
+asMultiple: FALSE
+asStatic: FALSE
